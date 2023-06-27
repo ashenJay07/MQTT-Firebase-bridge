@@ -1,0 +1,84 @@
+{
+  "DN200240": {
+    "temperature": {
+      "-NYxb_pn5pRGtC5UYlmw": "45",
+      "-NYxbaHnJz9uXmCwCZyZ": "56",
+      "-NYxbanATqwzgGVxwPtx": "24",
+      "-NYxbbgQ-nC23zfqGh17": "34",
+      "-NYxbcPIAA-vO3QtgaVd": "12",
+      "-NYxbk3wIoC02kBaLu8x": "32"
+    },
+    "vibration": {
+      "-NYxbpSAc96q09Qap4dk": "311",
+      "-NYxbq5B2ED56fxUDAV2": "344",
+      "-NYxbqf2bGQgLB-sk3HZ": "234",
+      "-NYxbsQYpGWb_L9UhqOi": "267",
+      "-NYxbt1O8z6eBiiV8C4U": "270",
+      "-NYxbvrJSllWZplzRVJW": "280"
+    }
+  },
+  "DN200275": {
+    "temperature": {
+      "-NYxd2NJzn4bQd7l2EfJ": "23",
+      "-NYxd2tpOKpOfb_xABji": "26",
+      "-NYxd3P4qOtzTKi4SMI_": "24"
+    },
+    "vibration": {
+      "-NYxd5zQjToFcr2DdeKB": "246",
+      "-NYxd6znROnGucc5iF1p": "216",
+      "-NYxd9133s37HrL58Gia": "317"
+    }
+  },
+  "DN200328": {
+    "temperature": {
+      "-NYxc7xRPhlMmHfOFdR8": "34",
+      "-NYxc8KAexCa-C_FcRBn": "23",
+      "-NYxc8pQ4_WmTxtWMuwb": "26",
+      "-NYxc9CvajMYbLFTuu7S": "25",
+      "-NYxc9WXVNwykH9BM_RS": "21"
+    },
+    "vibration": {
+      "-NYxcBuvsmjWkLuydUrg": "267",
+      "-NYxcCc1BY8eTfvToY4g": "245",
+      "-NYxcDhnKTE9LAfWlY-l": "267",
+      "-NYxcFQnxwQ3NE74JoK4": "287",
+      "-NYxcG-nyHLVd_Q0edo6": "245"
+    }
+  },
+  "DN200343": {
+    "temperature": {
+      "-NYxamegB4-OxHwRiqkE": "35",
+      "-NYxantJGqibuFIASSkI": "36",
+      "-NYxaoOAn7ogE1BgXWhd": "34",
+      "-NYxapPCC4AMVhbmAp2f": "35",
+      "-NYxapmxe0m982b4k0fw": "33",
+      "-NYxaqGJMt_V8ZbeOGSc": "36",
+      "-NYxarVo1Ffzs9OqHcez": "56",
+      "-NYxbOt2N36405fv76zy": "28"
+    },
+    "vibration": {
+      "-NYxbBsndeNz0dv9jiMa": "345",
+      "-NYxbCUvbAXWvAW-rT_I": "356",
+      "-NYxbDCA1SiVCV91_0Jv": "367",
+      "-NYxbE5A5zzRerP8jY5Y": "345",
+      "-NYxbEuBdfaLgp2PaC40": "356",
+      "-NYxbFjRVsyvertJ4-wi": "367",
+      "-NYxbI2gun-qyS-utriB": "244",
+      "-NYxbJ2IYfbcuE24-2Pr": "276"
+    }
+  },
+  "DN200519": {
+    "temperature": {
+      "-NYxcRThgrHxfVtugDmx": "12",
+      "-NYxcRyBJjD5CsoqOX9T": "15",
+      "-NYxcT-Qx91-mebyOSlX": "19",
+      "-NYxcTTQb8v09BKlIWRZ": "12"
+    },
+    "vibration": {
+      "-NYxcWVvFXJsxcf15JCo": "231",
+      "-NYxcXjphc0xK7xBuUaf": "312",
+      "-NYxcZXBdW9tzBqgL0K2": "226",
+      "-NYxcazRYGtu_uGS4Fpf": "258"
+    }
+  }
+}
